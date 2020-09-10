@@ -1,0 +1,31 @@
+.niladv
+{
+    width: 120px;
+    margin-left: -85%;
+    margin-top: 40px;
+}
+.title
+{
+    margin-top: -100px;
+    margin-left: -40%;
+}
+.welcome
+{
+    margin-top: 100px;
+}
+.des
+{
+    margin-left: 70px;
+    text-align: justify;
+    width: 90%;
+}
+.logout
+{
+    float: right;
+    margin-right: 50px;
+    margin-top: -240px;
+    width: 80px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: rgb(48, 163, 230);
+}
